@@ -5,5 +5,6 @@ public class test {
 		System.out.println("测试");
 		int b=2;
 		String ss="2";
+		int bb=3;
 	}
 }
